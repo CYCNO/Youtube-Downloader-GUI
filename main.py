@@ -7,7 +7,7 @@ from pytube import *
 root = Tk()
 
 root.title('YT Downloader')
-root.iconbitmap('C:/Users/home/Desktop/python/file/projects/pytube/download-from-cloud.ico')
+root.iconbitmap('download-from-cloud.ico')
 root.minsize(width=640, height=250)
 root.maxsize(width=640, height=250)
 
